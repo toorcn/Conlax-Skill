@@ -1,0 +1,16 @@
+# Local environment variables
+.env
+
+# Python caching
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Runtime directories and logs
+logs/
+state/
+data/local_memory.json
+
+# OS files
+.DS_Store

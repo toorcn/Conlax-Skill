@@ -1,0 +1,32 @@
+[
+  {
+    "id": "demo-001",
+    "from": "messages-noreply@linkedin.com",
+    "subject": "Jane Tan wants to connect with you on LinkedIn",
+    "body": "Jane Tan\nFounder at OrbitOps\nJane Tan sent you an invitation to connect on LinkedIn. View profile: https://linkedin.com/in/janetan"
+  },
+  {
+    "id": "demo-002",
+    "from": "messages-noreply@linkedin.com",
+    "subject": "Ryan Koh sent you an invitation on LinkedIn",
+    "body": "Ryan Koh\nEarly Careers Recruiter at CloudBridge\nRyan wants to connect with you on LinkedIn."
+  },
+  {
+    "id": "demo-003",
+    "from": "messages-noreply@linkedin.com",
+    "subject": "Maya Singh wants to connect",
+    "body": "Maya Singh\nDeveloper Community Lead at Northstar Labs\nMaya sent you an invitation to connect on LinkedIn."
+  },
+  {
+    "id": "demo-004",
+    "from": "messages-noreply@linkedin.com",
+    "subject": "Arun Patel accepted your invitation",
+    "body": "Arun Patel\nStudent builder working on AI education tools\nArun accepted your invitation on LinkedIn."
+  },
+  {
+    "id": "demo-005",
+    "from": "messages-noreply@linkedin.com",
+    "subject": "Elaine Wong wants to connect with you",
+    "body": "Elaine Wong\nInvestor and operator focused on applied AI startups\nElaine sent you an invitation to connect on LinkedIn."
+  }
+]
